@@ -5,7 +5,7 @@ const initNetworkInterface = graphqlUrl => {
   const networkInterface = createNetworkInterface({
     uri:
       graphqlUrl ||
-      'https://api.graph.cool/simple/v1/cixmkt2ul01q00122mksg82pn',
+      'https://api.graph.cool/simple/v1/cj4tt05a301oj018063jzxwmm',
     opts: {
       credentials: 'same-origin'
     }
